@@ -1,4 +1,3 @@
-```markdown
 # You Dont Know Python
 
 This repository is inspired by the popular series **You Don't Know JavaScript**. Its goal is to provide a comprehensive and in-depth guide to learning Python, covering everything from the most basic concepts to advanced topics that are often overlooked.
@@ -72,4 +71,3 @@ This project is under the [License](LICENSE). Any use, distribution, or modifica
 ---
 
 Thanks for your interest in **You Dont Know Python**! Together, we can create a resource that helps more people understand and master this powerful language.
-```
