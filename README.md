@@ -1,4 +1,4 @@
-# You Dont Know Python
+# You Dont Know Python (Yet)
 
 This repository is inspired by the popular series **You Don't Know JavaScript**. Its goal is to provide a comprehensive and in-depth guide to learning Python, covering everything from the most basic concepts to advanced topics that are often overlooked.
 
