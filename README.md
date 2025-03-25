@@ -1,5 +1,8 @@
 # You Dont Know Python (Yet)
 
+<img src="./book-banner.png" alt="readme-title" width="100%"/>
+
+
 This repository is inspired by the popular series **You Don't Know JavaScript**. Its goal is to provide a comprehensive and in-depth guide to learning Python, covering everything from the most basic concepts to advanced topics that are often overlooked.
 
 ## Table of Contents
